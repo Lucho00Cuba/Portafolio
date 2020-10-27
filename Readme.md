@@ -1,3 +1,0 @@
-# Portafolio CV
-
-## Creando CV 
