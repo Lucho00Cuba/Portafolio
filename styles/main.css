@@ -93,7 +93,8 @@
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-brown,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-brown {
   color: #fff;
-  background: #378C3F;
+  /*background: #378C3F;*/
+  background: #000;
 }
 
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-blue,
@@ -1323,7 +1324,7 @@
   border-radius: 0.1875rem;
   padding: 11px 22px;
   cursor: pointer;
-  background-color: #888;
+  background-color: #2a7320;
   color: #FFFFFF;
 }
 
@@ -4786,7 +4787,8 @@ Created using IcoMoon - icomoon.io
   margin-top: -60px;
   padding: 0 15px;
   width: 100%;
-  color: rgba(255, 255, 255, 0.5);
+  /*color: rgba(255, 255, 255, 0.5);*/
+  color: rgba(150, 150, 150, 0.5)
 }
 
 .landing-page .header {
